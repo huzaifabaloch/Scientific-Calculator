@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517521512 source:c:\users\sunny ahmed\documents\codeblocks\scientific_calc_data_struct-02\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
